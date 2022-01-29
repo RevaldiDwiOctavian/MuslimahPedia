@@ -24,7 +24,7 @@
         </div>
         <div class="col-md-6 mb-4">
             <center><div class="card" style="width: 70%;">
-                <img src="{{ route('products.image', ['imageName' => 'savira.jpeg']) }}" class="card-img-top" alt="...">
+                <img src="https://avatars.githubusercontent.com/u/98032493?v=4" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Savira Yosita</h5>
                 </div>
