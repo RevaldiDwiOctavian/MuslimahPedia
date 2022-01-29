@@ -152,7 +152,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div><br><br><br>
     <script>
         tinymce.init({
             selector: '#ckview',

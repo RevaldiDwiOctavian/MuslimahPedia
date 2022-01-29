@@ -73,5 +73,5 @@
                 <a href="{{ route('payment', ['total' => $orderItem->price * $orderItem->quantity]) }}" class="btn btn-primary">Bayar</a>
             </div>
         </div>
-    </div>
+    </div><br><br><br>
 @endsection
